@@ -1,10 +1,11 @@
 # Toko-listrik-PLN-
 
 ## Tampilan Admin
-![Tampilan Admin](assets/images/Tampilan_Admin.png)
+![Tampilan Admin](https://raw.githubusercontent.com/FatarisZix/Toko-listrik-PLN-/master/assets/images/Tampilan_Admin.png)
 
 ## Tampilan Login
-![Tampilan Login](assets/images/Tampilan_login.png)
+![Tampilan Login](https://raw.githubusercontent.com/FatarisZix/Toko-listrik-PLN-/master/assets/images/Tampilan_login.png)
+
 
 
 Aplikasi Sistem Pembayaran Listrik Pascabayar ini dibuat untuk mempermudah proses pencatatan laporan meter listrik, pembuatan tagihan, dan konfirmasi pembayaran.
