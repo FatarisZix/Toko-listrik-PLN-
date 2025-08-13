@@ -1,11 +1,11 @@
 # Toko-listrik-PLN-
 
-# Toko Listrik PLN
-
-Aplikasi pembayaran listrik pascabayar berbasis web.
-
 ## Tampilan Admin
 ![Tampilan Admin](assets/images/Tampilan_Admin.png)
+
+## Tampilan Login
+![Tampilan Login](assets/images/Tampilan_login.png)
+
 
 Aplikasi Sistem Pembayaran Listrik Pascabayar ini dibuat untuk mempermudah proses pencatatan laporan meter listrik, pembuatan tagihan, dan konfirmasi pembayaran.
 Sistem ini memiliki dua jenis pengguna, yaitu User (pelanggan) dan Admin (petugas).
